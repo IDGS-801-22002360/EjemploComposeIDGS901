@@ -55,6 +55,8 @@ fun MyPersonaje(personajes: Personajes){
     }
 }
 
+
+
 @Composable
 fun Personajes(personajes: Personajes){
     Column {
