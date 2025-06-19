@@ -47,6 +47,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             Ejemplo1ComposeIDGS901Theme {
                 Tarjeta(tarjetas)
+
             }
         }
     }
